@@ -1,0 +1,80 @@
+APPLICATION NAME: 潜龙Online
+;
+Total Activities: 6
+;
+TOTAL FILTERS BY activity = 1
+;
+Total Services: 4
+;
+TOTAL FILTERS BY service = 0
+;
+Total Receivers: 1
+;
+Total Providers: 0
+;
+0
+;
+APPLICATION NAME: 万阅公寓
+;
+Total Activities: 12
+;
+TOTAL FILTERS BY activity = 2
+;
+Total Services: 4
+;
+TOTAL FILTERS BY service = 0
+;
+Total Receivers: 1
+;
+Total Providers: 0
+;
+0
+;
+APPLICATION NAME: 指纹屏保
+;
+Total Activities: 10
+;
+TOTAL FILTERS BY activity = 7
+;
+Total Services: 2
+;
+TOTAL FILTERS BY service = 0
+;
+Total Receivers: 4
+;
+Total Providers: 0
+;
+0
+;
+APPLICATION NAME: Whack-A-Mole
+;
+Total Activities: 5
+;
+TOTAL FILTERS BY activity = 8
+;
+Total Services: 1
+;
+TOTAL FILTERS BY service = 0
+;
+Total Receivers: 2
+;
+Total Providers: 0
+;
+0
+;
+APPLICATION NAME: sexymodel
+;
+Total Activities: 4
+;
+TOTAL FILTERS BY activity = 11
+;
+Total Services: 1
+;
+TOTAL FILTERS BY service = 0
+;
+Total Receivers: 1
+;
+Total Providers: 0
+;
+0
+;

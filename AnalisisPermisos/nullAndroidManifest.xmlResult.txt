@@ -1,0 +1,88 @@
+attribute defined ------> Security meaning
+80
+Component type: activity
+.FriendSeed
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionlity.
+WARNING: Developer hasn't implement permissions
+Component type: activity
+.FriendTrackerControl
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionlity.
+Component type: service
+FriendTracker
+The android:permission attribute defined are, AND APPLICATION THAT DEFINED THIS PERMISSION ARE !!!!!!!: org.siislab.tutorial.permission.FRIEND_SERVICE
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+Component type: receiver
+BootReceiver
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT_COMPLETED
+Developer has implemented the follow permissions:
+org.siislab.tutorial.permission.READ_FRIENDS
+This permission hasn't defined permissionGroup attributed. It meaning that this permission does not belong to a group
+This permission hasn't defined protectionLevel attributed then, by default, the risk level of this permission is: lower. It meaning that permission features are: 
+Potencial risk permission: lower. Grants by: System. Meaning: gives requesting applications access to isolated application-level features, with minimal risk to other applications, the system, or the user.
+org.siislab.tutorial.permission.WRITE_FRIENDS
+This permission hasn't defined permissionGroup attributed. It meaning that this permission does not belong to a group
+This permission hasn't defined protectionLevel attributed then, by default, the risk level of this permission is: lower. It meaning that permission features are: 
+Potencial risk permission: lower. Grants by: System. Meaning: gives requesting applications access to isolated application-level features, with minimal risk to other applications, the system, or the user.
+org.siislab.tutorial.permission.FRIEND_SERVICE
+This permission hasn't defined permissionGroup attributed. It meaning that this permission does not belong to a group
+This permission hasn't defined protectionLevel attributed then, by default, the risk level of this permission is: lower. It meaning that permission features are: 
+Potencial risk permission: lower. Grants by: System. Meaning: gives requesting applications access to isolated application-level features, with minimal risk to other applications, the system, or the user.
+org.siislab.tutorial.permission.FRIEND_SERVICE_ADD
+This permission hasn't defined permissionGroup attributed. It meaning that this permission does not belong to a group
+This permission hasn't defined protectionLevel attributed then, by default, the risk level of this permission is: lower. It meaning that permission features are: 
+Potencial risk permission: lower. Grants by: System. Meaning: gives requesting applications access to isolated application-level features, with minimal risk to other applications, the system, or the user.
+org.siislab.tutorial.permission.FRIEND_NEAR
+This permission hasn't defined permissionGroup attributed. It meaning that this permission does not belong to a group
+Dangerous level potencial risk are higher. Grants by: user. Meaning: gives requesting application access to private user data or control over the device that can negatively impact the user.
+org.siislab.tutorial.permission.BROADCAST_FRIEND_NEAR
+This permission hasn't defined permissionGroup attributed. It meaning that this permission does not belong to a group
+This permission hasn't defined protectionLevel attributed then, by default, the risk level of this permission is: lower. It meaning that permission features are: 
+Potencial risk permission: lower. Grants by: System. Meaning: gives requesting applications access to isolated application-level features, with minimal risk to other applications, the system, or the user.
+Component type: activity
+.FriendViewer
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionlity.
+Component type: activity
+FriendMap
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionlity.
+Component type: activity
+.FriendSeed
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT_COMPLETED
+Component type: service
+FriendTracker
+The android:permission attribute defined are, AND APPLICATION THAT DEFINED THIS PERMISSION ARE !!!!!!!: org.siislab.tutorial.permission.FRIEND_SERVICE
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.MAIN
+android:name = android.intent.category.LAUNCHER
+Component type: service
+FriendTrackerTEST
+The android:permission attribute defined are, AND APPLICATION THAT DEFINED THIS PERMISSION ARE !!!!!!!: org.siislab.tutorial.permission.FRIEND_SERVICE
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT
+Component type: receiver
+FriendReceiver
+The android:permission attribute defined are, AND APPLICATION THAT DEFINED THIS PERMISSION ARE !!!!!!!: org.siislab.tutorial.permission.BROADCAST_FRIEND_NEAR
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT_COMPLETED
+Component type: receiver
+FriendReceiverTEST
+The android:permission attribute defined are, AND APPLICATION THAT DEFINED THIS PERMISSION ARE !!!!!!!: org.siislab.tutorial.permission.BROADCAST_FRIEND_NEAR
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT_COMPLETED
+Developer has implemented the follow permissions:
+org.siislab.tutorial.permission.READ_TEST
+This permission hasn't defined permissionGroup attributed. It meaning that this permission does not belong to a group
+This permission hasn't defined protectionLevel attributed then, by default, the risk level of this permission is: lower. It meaning that permission features are: 
+Potencial risk permission: lower. Grants by: System. Meaning: gives requesting applications access to isolated application-level features, with minimal risk to other applications, the system, or the user.

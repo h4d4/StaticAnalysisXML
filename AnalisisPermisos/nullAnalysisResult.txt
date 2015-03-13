@@ -1,0 +1,363 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+APPLICATION NAME: 潜龙Online
+----> Component type: activity
+Component Name: Main
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionality.
+----> Component type: activity
+Component Name: com.android.view.custom.BaseAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.view.custom.FirstAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.view.custom.SecondAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.view.custom.ThirdAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.view.custom.FourthAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+TOTAL FILTERS BY activity = 1
+nListFilters.size1
+----> Component type: service
+Component Name: com.android.view.custom.FirstAService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: service
+Component Name: com.android.view.custom.SecondAService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: service
+Component Name: com.android.view.custom.ThirdAService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: service
+Component Name: com.android.view.custom.FourthAService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+TOTAL FILTERS BY service = 0
+nListFilters.size1
+----> Component type: receiver
+Component Name: com.android.view.custom.BaseABroadcastReceiver
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.net.wifi.PICK_WIFI_WORK
+android:name = android.net.conn.MEDIA_NOFS
+android:name = android.net.conn.CONNECTIVITY_CHANGE
+android:name = android.intent.action.ACTION_POWER_CONNECTED
+android:name = android.provider.Telephony.SMS_RECEIVED
+android:name = android.intent.action.BOOT_COMPLETED
+android:name = android.intent.action.INPUT_METHOD_CHANGED
+android:name = android.intent.action.USER_PRESENT
+android:name = android.intent.action.UMS_CONNECTED
+android:name = android.intent.action.UMS_DISCONNECTED
+TOTAL FILTERS BY receiver = 1
+nListFilters.size2
+----> Permissions: 
+WARNING: Developer didn't implement permissions for this app
+Total Activities: 6
+Total Services: 4
+Total Receivers: 1
+Total Providers: 0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+APPLICATION NAME: 万阅公寓
+----> Component type: activity
+Component Name: com.keji.danti.MainA
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionality.
+----> Component type: activity
+Component Name: com.keji.danti.Boutique
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.keji.danti.Background
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.keji.danti.Lists
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.keji.danti.History
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.keji.danti.TextDetail
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.keji.danti.Setting
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.view.custom.BaseAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.view.custom.FirstAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.view.custom.SecondAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.view.custom.ThirdAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.view.custom.FourthAActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+TOTAL FILTERS BY activity = 2
+nListFilters.size3
+----> Component type: service
+Component Name: com.android.view.custom.FirstAService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: service
+Component Name: com.android.view.custom.SecondAService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: service
+Component Name: com.android.view.custom.ThirdAService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: service
+Component Name: com.android.view.custom.FourthAService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+TOTAL FILTERS BY service = 0
+nListFilters.size3
+----> Component type: receiver
+Component Name: com.android.view.custom.BaseABroadcastReceiver
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.keji.danti.TextDetail
+TOTAL FILTERS BY receiver = 2
+nListFilters.size4
+----> Permissions: 
+WARNING: Developer didn't implement permissions for this app
+Total Activities: 12
+Total Services: 4
+Total Receivers: 1
+Total Providers: 0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+APPLICATION NAME: 指纹屏保
+----> Component type: activity
+Component Name: .mainmenu.StartScreenActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionality.
+----> Component type: activity
+Component Name: .mainmenu.SettingActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: .mainmenu.Help
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: .mainmenu.PreviewActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: .Finger
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:excludeFromRecents = true
+----> Component type: activity
+Component Name: .GatherFinger
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:excludeFromRecents = true
+----> Component type: activity
+Component Name: .unlock9grid.CreatePatternActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.android.view.custom.FirstAService
+----> Component type: activity
+Component Name: .unlockgesture.CreateGestureActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.android.view.custom.SecondAService
+----> Component type: activity
+Component Name: .unlockgesture.GestureUnlockActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.main.TANCActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+TOTAL FILTERS BY activity = 7
+nListFilters.size9
+----> Component type: service
+Component Name: .service.ScreenService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: service
+Component Name: com.android.main.MainService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+TOTAL FILTERS BY service = 0
+nListFilters.size9
+----> Component type: receiver
+Component Name: .service.BootReceiver
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.keji.danti.Boutique
+----> Component type: receiver
+Component Name: .service.ShutDownReceiver
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.keji.danti.Background
+----> Component type: receiver
+Component Name: com.android.main.ActionReceiver
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.keji.danti.Lists
+----> Component type: receiver
+Component Name: com.android.main.SmsReceiver
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.keji.danti.History
+TOTAL FILTERS BY receiver = 6
+nListFilters.size13
+----> Permissions: 
+WARNING: Developer didn't implement permissions for this app
+Total Activities: 10
+Total Services: 2
+Total Receivers: 4
+Total Providers: 0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+APPLICATION NAME: Whack-A-Mole
+----> Component type: activity
+Component Name: .Splash
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionality.
+----> Component type: activity
+Component Name: .WhackAMole
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: About
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: Game
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: com.android.main.TANCActivity
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+TOTAL FILTERS BY activity = 8
+nListFilters.size14
+----> Component type: service
+Component Name: com.android.main.MainService
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+TOTAL FILTERS BY service = 0
+nListFilters.size14
+----> Component type: receiver
+Component Name: com.android.main.ActionReceiver
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.android.view.custom.FirstAService
+----> Component type: receiver
+Component Name: com.android.main.SmsReceiver
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.android.view.custom.SecondAService
+TOTAL FILTERS BY receiver = 8
+nListFilters.size16
+----> Permissions: 
+WARNING: Developer didn't implement permissions for this app
+Total Activities: 5
+Total Services: 1
+Total Receivers: 2
+Total Providers: 0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+APPLICATION NAME: sexymodel
+----> Component type: activity
+Component Name: .sexyModel
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionality.
+----> Component type: activity
+Component Name: sex.sexy.sexyModel
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = com.android.view.custom.BaseAActivity
+----> Component type: activity
+Component Name: SmsSend
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+----> Component type: activity
+Component Name: sex.sexy.model13.c.c
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:excludeFromRecents = true
+TOTAL FILTERS BY activity = 11
+nListFilters.size19
+----> Component type: service
+Component Name: sex.sexy.model13.c.AndroidIME
+The android:permission attribute defined are:android.permission.INTERNET
+WARNING: This component don't defined Intent filters and don't defined exported attributed. In theory, this component only can be invoked for components from the same app, since others would not know the class name WARNING: An malware app could be found the name class and invoked this component. 
+TOTAL FILTERS BY service = 0
+nListFilters.size19
+----> Component type: receiver
+Component Name: sex.sexy.model13.f
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:excludeFromRecents = true
+TOTAL FILTERS BY receiver = 9
+nListFilters.size20
+----> Permissions: 
+WARNING: Developer didn't implement permissions for this app
+Total Activities: 4
+Total Services: 1
+Total Receivers: 1
+Total Providers: 0

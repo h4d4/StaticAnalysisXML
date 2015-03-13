@@ -1,0 +1,51 @@
+attribute defined ------> Security meaning
+48
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Component type: activity
+.FriendViewer
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This it the main Activity. It defined default filters for its functionlity.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Component type: activity
+FriendMap
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Component type: activity
+.FriendSeed
+The android:allowEmbedded attribute is NOT defined. 
+The android:permission attribute is not defined.
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT_COMPLETED
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Component type: service
+FriendTracker
+The android:permission attribute defined are, AND APPLICATION THAT DEFINED THIS PERMISSION ARE !!!!!!!: org.siislab.tutorial.permission.FRIEND_SERVICE
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT_COMPLETED
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Component type: service
+FriendTrackerTEST
+The android:permission attribute defined are, AND APPLICATION THAT DEFINED THIS PERMISSION ARE !!!!!!!: org.siislab.tutorial.permission.FRIEND_SERVICE
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT_COMPLETED_TEST
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Component type: receiver
+FriendReceiver
+The android:permission attribute defined are, AND APPLICATION THAT DEFINED THIS PERMISSION ARE !!!!!!!: org.siislab.tutorial.permission.BROADCAST_FRIEND_NEAR
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT_XXX
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Component type: receiver
+FriendReceiverTEST
+The android:permission attribute defined are, AND APPLICATION THAT DEFINED THIS PERMISSION ARE !!!!!!!: org.siislab.tutorial.permission.BROADCAST_FRIEND_NEAR
+This component can be invoked by external apps, only if arrived intents match with the follow FILTERS: 
+android:name = android.intent.action.BOOT_TEST
+Developer has implemented the follow permissions:
+org.siislab.tutorial.permission.READ_TEST
+This permission hasn't defined permissionGroup attributed. It meaning that this permission does not belong to a group
+This permission hasn't defined protectionLevel attributed then, by default, the risk level of this permission is: lower. It meaning that permission features are: 
+Potencial risk permission: lower. Grants by: System. Meaning: gives requesting applications access to isolated application-level features, with minimal risk to other applications, the system, or the user.

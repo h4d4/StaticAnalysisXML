@@ -1,0 +1,11 @@
+Total apps analyzed: 610
+Apps when developer defines New permissions: 199
+Apps that implemets Providers: 201
+Permissions Providers: 196
+Apps that implements activities: 486
+Apps that implements only mainActivities: 47
+Apps with at least one IF to its Activities: 292
+Apps that implemets Services: 436
+Apps with at least one IF to its Services: 145
+Apps that implemets Receivers: 435
+Apps with at least one IF to its Receivers: 427
